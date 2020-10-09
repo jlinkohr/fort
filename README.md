@@ -7,3 +7,5 @@ Aim of this project is to show the different source on OS dependencies in a mult
 
 Trigger build
 
+## changes for scanning
+this section is done for scanning reasons
